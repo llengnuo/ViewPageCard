@@ -1,0 +1,2 @@
+# ViewPageCard
+使用ViewPage仿Grally实现画廊卡片式效果，代码很简单易用
